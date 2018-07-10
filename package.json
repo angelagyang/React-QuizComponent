@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "@angular/cli": "^6.0.8",
     "babylon": "6.18.0",
     "chai": "4.1.2",
     "chai-enzyme": "0.8.0",
